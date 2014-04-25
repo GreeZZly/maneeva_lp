@@ -1,0 +1,341 @@
+﻿.logo_banner {
+	margin-top: 30px;
+	background-image: url("../images/logo.png");
+    width: 374px;
+    height: 164px;
+      background-repeat: no-repeat; 
+}
+
+.phone_banner {
+	margin-left: 50px;
+	margin-top: 100px;
+	color:#ff6600;
+	font-size: 18pt;
+
+}
+
+.slogan_banner {
+	margin-top: 25px;
+	font-size: 22pt;
+	color: #ff6600;
+	text-align: center;
+	font-weight: bold;
+	line-height: 30px;
+}
+
+.logo2_banner {
+	background-image: url("../images/ball.jpg");
+	width:172px;
+	height: 172px;
+	 background-repeat: no-repeat; 
+}
+
+.date_banner {
+	margin-top: 50px;
+	text-align: center;
+	color: #000000;
+	font-size: 12pt;
+}
+
+.orange_block {
+	background-color: #ff6600;
+	color:#ffffff;
+	font-size: 12pt;
+}
+
+.slogan2 {
+	margin-top: 30px;
+	font-weight: bold;
+	color: #ffffff;
+	text-align: center;
+}
+
+.slogan3 {
+	/*margin-top: 30px;*/
+	font-weight: bold;
+	color: #ffffff;
+	text-align: center;
+}
+
+.video_span {
+	margin-top: 50px;
+}
+
+.form_span1 {
+	margin-top: 50px;
+	color:#ffffff;
+	text-align: center;
+	font-size: 12pt;
+	margin-bottom: 100px;
+}
+
+.input_form {
+	margin-top: 20px;
+
+}
+
+.btn-danger {
+	background-color: #ff0000;
+	background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+    background-repeat: repeat-x;
+    width: 210px;
+    height: 35px;
+   /* border: 3px solid #663333;
+    border-top: 0;*/
+    box-shadow: 0 5px 3px rgba(0,0,0,1);
+}
+
+.btn-danger:hover,
+.btn-danger:focus,
+.btn-danger.focus{
+	background-color: #ff0000;
+	background-image: linear-gradient(to bottom, #FF5900, #ff0000);
+background-repeat: repeat-x;
+outline: none;
+}
+
+#phone_call,
+#trenning_programm {
+	background-color: #009933;
+	background-image: linear-gradient(to bottom, #009933, #009933);
+    background-repeat: repeat-x;
+    width: 210px;
+    height: 35px;
+   /* border: 3px solid #663333;
+    border-top: 0;*/
+    box-shadow: 0 5px 3px rgba(0,0,0,1);
+    margin-bottom: 50px;
+}
+
+
+#phone_call{
+	margin-top:15px;
+}
+
+#phone_call:hover,
+#phone_call:focus,
+#phone_call.focus,
+#trenning_programm:hover,
+#trenning_programm:focus
+#trenning_programm.focus{
+	background-color: #009933;
+	background-image: linear-gradient(to bottom, #00998F, #009933);
+background-repeat: repeat-x;
+outline: none;
+
+}
+
+#phone_call,
+#reg_button,
+#yes_i_want,
+#trenning_programm
+{
+	font-size: 15pt;
+	width: 300px;
+}
+
+.reg_button
+{ text-align: center;
+  margin-top:70px;
+  margin-top: 80px;}
+
+.input_form >input {
+	border-radius: 0;
+}
+
+.after_orange {
+	margin-top: 30px;
+	color: #000000;
+	font-size: 12pt;
+	line-height: 30px;
+}
+
+.label_black {
+	margin-top: 50px;
+	margin-bottom: 50px;
+    font-weight: bold;
+	font-size: 20pt;
+	text-align: center;
+}
+
+.label_black_little_bottom {
+	margin-top: 10px;
+	margin-bottom: 10px;
+    font-weight: bold;
+	font-size: 18pt;
+	text-align: center;
+}
+
+#little {
+	font-size: 12pt;
+	margin-bottom: 0;
+	text-align: left;
+}
+
+.razd {
+	width: 25px;
+	height: 25px;
+	background-image: url("../images/icon.png");
+	background-position: 0 -85px;
+	background-repeat: no-repeat; 
+}
+
+.strelka_left {
+	width: 50px;
+	height: 70px;
+	background-image: url("../images/icon.png");
+	background-position: 0 0px;
+	background-repeat: no-repeat; 
+}
+
+.strelka_right {
+	width: 50px;
+	height: 70px;
+	background-image: url("../images/icon.png");
+	background-position: -48px 0px;
+	background-repeat: no-repeat; 
+}
+
+.strelka_left2 {
+	width: 100px;
+	height: 80px;
+	background-image: url("../images/icon.png");
+	background-position: -100px 0px;
+	background-repeat: no-repeat; 
+}
+
+.strelka_right2 {
+	width: 100px;
+	height: 80px;
+	background-image: url("../images/icon.png");
+	background-position: -205px 0px;
+	background-repeat: no-repeat; 
+}
+
+.strelka_down {
+	width: 186px;
+	height: 150px;
+	background-image: url("../images/icon.png");
+	background-position: -11px -83px;
+	background-repeat: no-repeat; 
+    margin-left: 50px;
+
+}
+
+.strelka_down2 {
+	width: 70px;
+	height: 110px;
+	background-image: url("../images/icon.png");
+	background-position: -212px -83px;
+	background-repeat: no-repeat; 
+    margin-left: 115px;
+      margin-top: 30px;
+}
+
+
+
+
+.otz {
+	margin-top: 50px;
+}
+
+.little_black_label {
+	color: #000000;
+}
+
+.last {
+  margin-bottom: 50px;
+}
+
+.last2 {
+	margin-bottom: 20px;
+}
+
+.orange {
+	color: #ff6600;
+}
+
+.red {
+	color: #ff0000;
+}
+
+.grey_background {
+
+	 background-color:#4d4d4d;
+}
+
+.grey {
+	color:#373534;
+}
+
+.img_center{
+	text-align: center;
+}
+
+.reg_button2
+{ text-align: center;
+  margin-top:10px;
+  margin-bottom: 0px;
+  margin-right: 50px;}
+
+.list > li{
+	line-height: 30px;
+}  
+
+.first {
+	margin-top: 50px;
+}
+
+.first_little {
+	margin-top:30px;
+}
+
+.text_on_black {
+	color:#373435;
+	font-size: 13pt;
+	line-height: 30px;
+}
+
+.text_padding {
+	 text-indent: 90px;
+}
+
+.little_height {
+	line-height: 10px;
+}
+
+.font_st {
+	font-size: 13pt;
+}
+
+.right {
+	text-align: right;
+}
+
+@font-face {
+    font-family: Tahoma; /* Имя шрифта */
+    src: url(fonts/tahoma.ttf); /* Путь к файлу со шрифтом */
+   }
+   P {
+    font-family: Tahoma;
+   }
+
+ hr {
+ 	height: 1px;
+ 	background-color: #ffffff;
+ 	border:0;
+ }  
+
+ .error {
+ 	color:red;
+ 	font-size: 13px;
+ }
+
+ #order_book .error {
+ 	font-size: 13px;
+ 	color: #000;
+ }
+
+ #book_modal {
+ 	color: black;
+ }
